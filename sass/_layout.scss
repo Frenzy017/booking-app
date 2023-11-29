@@ -41,15 +41,12 @@
 }
 
 .hotel-view {
-  // TEST
-
-  height: 80rem;
-
   // Element has to grow as much as it can to occupy the remaining space
   flex: 1;
 }
 
 .detail {
+  font-size: 1.4rem;
   display: flex;
   padding: 4.5rem;
   background-color: var(--color-grey-light-1);
@@ -65,6 +62,9 @@
 }
 
 .user-reviews {
-  background-color: yellowgreen;
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
 }
