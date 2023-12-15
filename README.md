@@ -1,5 +1,36 @@
 # booking-app
 
+# Booking App  🌴
+
+This project was part of Jonas Schmedtmann's Advances CSS & SASS course on Udemy.
+
+The goal of this repo is to practice the following skill sets:
+
+- CSS
+    - **Flex & grid**: primary objective of this project
+        - `flex` & `flex-grow`
+        - `flex-shrink`
+        - `flex-basis`
+        - `Creating custom names for grid`
+        - `grid-template-areas`
+
+## Links
+
+[Live Demo](https://frenzy017.github.io/booking-app/)
+
+
+## Screenshots
+
+> Normal View / Desktop Layout
+
+![Screenshot Booking-Design](screenshots/booking-design.png)
+
+
+
+## Helpful information on CSS to use for future reference
+
+
+
 ### Flexbox 101 Properties:
 
 _flex: 0 0 18%_
